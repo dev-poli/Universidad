@@ -6,5 +6,7 @@ public class Estudiante {
 
         System.out.println("que tal");
 
+        
+
     }
 }
